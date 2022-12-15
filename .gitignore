@@ -1,0 +1,6 @@
+/.project
+/target/
+.classpath
+.DS_Store
+.settings
+test-db
